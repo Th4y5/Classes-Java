@@ -1,2 +1,3 @@
 public class Client extends Pessoa{
+           private String CPF;
 }
